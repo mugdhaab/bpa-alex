@@ -1,0 +1,3 @@
+/home/u1409693/Documents/Alex-BPA/ALEX/build/CMakeFiles/rebuild_cache.dir
+/home/u1409693/Documents/Alex-BPA/ALEX/build/CMakeFiles/edit_cache.dir
+/home/u1409693/Documents/Alex-BPA/ALEX/build/CMakeFiles/example.dir
